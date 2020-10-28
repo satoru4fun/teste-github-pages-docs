@@ -1,3 +1,4 @@
 module.exports = {
-	  publicPath: "/teste-github-pages-docs/" 
+	  publicPath: "/teste-github-pages-docs/",
+	  outputDir: "docs"
 };
